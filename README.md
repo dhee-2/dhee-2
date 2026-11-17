@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=FFC400" />
 </p>
 
-### Projects
+### Academic
 
 | Project | Stack | Description |
 |---|---|---|
