@@ -27,11 +27,8 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [C_Sharp_TeamProject_Capstone](https://github.com/dhee-2/C_Sharp_TeamProject_Capstone) | C# | 캡스톤 팀 프로젝트 |
-| [Java_Project](https://github.com/dhee-2/Java_Project) | Java | Java 프로젝트 |
-| [WebProgramming_Project](https://github.com/dhee-2/WebProgramming_Project) | JavaScript | 웹 프로그래밍 프로젝트 |
-| [UIUX_Project](https://github.com/dhee-2/UIUX_Project) | Dart · Flutter | UI/UX 앱 프로젝트 |
-| [OS_practice](https://github.com/dhee-2/OS_practice) | Jupyter | 운영체제 실습 |
+| [hcode-beginner-ide](https://github.com/dhee-2/hcode-beginner-ide) | C# · WPF | 초보자를 위해 꼭 필요한 기능만 담은 경량 IDE (캡스톤 팀 프로젝트) |
+| [university-projects](https://github.com/dhee-2/university-projects) | Java · Web · Flutter · OS | 대학 과목별 과제·프로젝트 모음 |
 
 ### Stats
 
