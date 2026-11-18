@@ -23,6 +23,12 @@
 <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=FFC400" />
 </p>
 
+### Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [auto-exploit-engine](https://github.com/dhee-2/auto-exploit-engine) | Python · angr · Unicorn | 라운드마다 새로 생성되는 x86-64 ELF를 자동 분석·공략하는 엔진 |
+
 ### Academic
 
 | Project | Stack | Description |
